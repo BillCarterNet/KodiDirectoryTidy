@@ -1,0 +1,2741 @@
+Kodi Directory Tidy Report
+Start: 29/05/2020 13:57:01
+
+Original:  E:\Downloads\TV Drama2\Appropriate Adult\Season 1\Appropriate Adult S01E01.mp4
+Processed: E:\Downloads\TV Drama2\Appropriate Adult\Season 1\Appropriate Adult S01E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Appropriate Adult\Season 1\Appropriate Adult S01E02.mp4
+Processed: E:\Downloads\TV Drama2\Appropriate Adult\Season 1\Appropriate Adult S01E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Extras\Read Me.txt
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Extras\Read Me.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Extras\Thumbs.db
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Extras\Thumbs.db
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Extras\[TGx]Downloaded from torrentgalaxy.to .txt
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Extras\[TGx]Downloaded from torrentgalaxy.to .txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E01.mkv
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E02.mkv
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E03.mkv
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E04.mkv
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E05.mkv
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E06.mkv
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E07.mkv
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 1\Big Little Lies S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E01.mp4
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E02.mp4
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E03.mp4
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E04.mp4
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E05.mp4
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E06.mp4
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E07.mp4
+Processed: E:\Downloads\TV Drama2\Big Little Lies\Season 2\Big Little Lies S02E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Catch 22\Extras\[TGx]Downloaded from torrentgalaxy.org .txt
+Processed: E:\Downloads\TV Drama2\Catch 22\Extras\[TGx]Downloaded from torrentgalaxy.org .txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E01.mkv
+Processed: E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E02.mkv
+Processed: E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E03.mkv
+Processed: E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E04.mkv
+Processed: E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E05.mkv
+Processed: E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E06.mkv
+Processed: E:\Downloads\TV Drama2\Catch 22\Season 1\Catch 22 S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E01.mkv
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E02.mkv
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E02.nfo
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E02.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E03.mkv
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E03.nfo
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E03.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E04.mkv
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E04.nfo
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E04.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E05.mkv
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E05.nfo
+Processed: E:\Downloads\TV Drama2\Chernobyl\Season 1\Chernobyl S01E05.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Extras\Read Me.txt
+Processed: E:\Downloads\TV Drama2\Fringe\Extras\Read Me.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Extras\Torrent downloaded from AhaShare.com.txt
+Processed: E:\Downloads\TV Drama2\Fringe\Extras\Torrent downloaded from AhaShare.com.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Extras\Torrent_downloaded_from_Demonoid.com.txt
+Processed: E:\Downloads\TV Drama2\Fringe\Extras\Torrent_downloaded_from_Demonoid.com.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E01.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E01.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E01.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E02.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E02.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E02.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E03.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E03.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E03.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E04.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E04.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E04.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E05.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E05.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E05.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E06.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E06.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E06.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E07.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E07.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E07.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E08.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E08.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E08.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E09.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E09.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E09.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E10.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E10.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E10.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E11.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E11.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E11.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E11.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E12.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E12.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E12.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E12.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E13.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E13.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E13.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E13.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E14.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E14.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E14.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E14.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E15.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E15.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E15.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E15.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E16.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E16.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E16.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E16.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E17.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E17.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E17.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E17.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E18.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E18.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E18.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E18.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E19.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E19.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E19.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E19.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E20.mkv
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E20.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E20.srt
+Processed: E:\Downloads\TV Drama2\Fringe\Season 1\Fringe S01E20.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Extras\[TGx]Downloaded from torrentgalaxy.to .txt
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Extras\[TGx]Downloaded from torrentgalaxy.to .txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E01.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E02.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E03.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E04.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E05.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E06.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E07.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E08.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E09.mkv
+Processed: E:\Downloads\TV Drama2\Gangs Of London\Season 1\Gangs Of London S01E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Extras\Torrent_downloaded_from_Demonoid.com.txt
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Extras\Torrent_downloaded_from_Demonoid.com.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E01.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E01.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E02.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E02.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E03.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E03.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E04.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E04.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E05.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E05.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E06.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E06.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E07.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E07.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E08.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E08.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E09.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E09.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E10.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E10.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E11.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E11.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E12.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E12.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E13.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E13.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E14.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E14.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E15.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E15.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E16.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E16.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E17.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E17.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E18.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E18.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E19.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E19.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E20.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E20.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E21.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E21.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E22.AVI
+Processed: E:\Downloads\TV Drama2\Highlander The Raven\Season 1\Highlander The Raven S01E22.AVI
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Extras\Behind the Scenes.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Extras\Behind the Scenes.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Extras\Deleted Scenes + Visual Effects- A Historical Progression.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Extras\Deleted Scenes + Visual Effects- A Historical Progression.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E01.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E02.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E03.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E04.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E05.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E06.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E07.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E08.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E09.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E10.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E11.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E12.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E13.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E14.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E15.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E16.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E17.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E18.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E19.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E20.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E21.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E22.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 1\Highlander The Series S01E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E01.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E02.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E03.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E04.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E05.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E06.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E07.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E08.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E09.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E10.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E11.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E12.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E13.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E14.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E15.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E16.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E17.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E18.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E19.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E20.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E21.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E22.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 2\Highlander The Series S02E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E01.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E02.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E03.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E04.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E05.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E06.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E07.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E08.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E09.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E10.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E11.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E12.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E13.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E14.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E15.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E16.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E17.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E18.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E19.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E20.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E21.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E22.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 3\Highlander The Series S03E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E01.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E02.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E03.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E04.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E05.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E06.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E07.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E08.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E09.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E10.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E11.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E12.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E13.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E14.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E15.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E16.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E17.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E18.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E19.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E20.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E21.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E22.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 4\Highlander The Series S04E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E01.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E02.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E03.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E04.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E05.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E06.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E07.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E08.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E09.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E10.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E11.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E12.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E13.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E14.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E15.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E16.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E17.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E18.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 5\Highlander The Series S05E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E01.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E02.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E03.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E04.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E05.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E06.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E07.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E08.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E09.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E10.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E11.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E12.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E13.mp4
+Processed: E:\Downloads\TV Drama2\Highlander The Series\Season 6\Highlander The Series S06E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Extras\Read Me.txt
+Processed: E:\Downloads\TV Drama2\Kidding\Extras\Read Me.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Extras\Thumbs.db
+Processed: E:\Downloads\TV Drama2\Kidding\Extras\Thumbs.db
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E01.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E02.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E03.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E04.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E05.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E06.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E07.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E08.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E09.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E10.mp4
+Processed: E:\Downloads\TV Drama2\Kidding\Season 1\Kidding S01E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E01.avi
+Processed: E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E01.avi
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E02.avi
+Processed: E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E02.avi
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E03.avi
+Processed: E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E03.avi
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E04.avi
+Processed: E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E04.avi
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E05.avi
+Processed: E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E05.avi
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E06.avi
+Processed: E:\Downloads\TV Drama2\Liar\Season 1\Liar S01E06.avi
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Extras\riviera-season-one_english-1595199.zip
+Processed: E:\Downloads\TV Drama2\Riveria\Extras\riviera-season-one_english-1595199.zip
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Extras\[TGx]Downloaded from torrentgalaxy.org .txt
+Processed: E:\Downloads\TV Drama2\Riveria\Extras\[TGx]Downloaded from torrentgalaxy.org .txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E01.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E01.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E01.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E02.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E02.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E02.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E03.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E03.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E03.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E04.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E04.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E04.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E05.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E05.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E05.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E06.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E06.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E06.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E07.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E07.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E07.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E08.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E08.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E08.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E09.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E09.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E09.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E10.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E10.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E10.srt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\riviera-season-one_english-1595199\Riviera S01E01.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E01.srt
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 1\riviera-season-one_english-1595199\Riviera S01E02.srt
+Processed: E:\Downloads\TV Drama2\Riveria\Season 1\Riveria S01E02.srt
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E01.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E02.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E03.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E04.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E05.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E06.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E07.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E08.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E09.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E10.mkv
+Processed: E:\Downloads\TV Drama2\Riveria\Season 2\Riveria S02E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Extras\i.nfo
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Extras\i.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Extras\phatwarez.jpg
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Extras\phatwarez.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Extras\Star Trek TNG - Cover.jpg
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Extras\Star Trek TNG - Cover.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E01-S01E02.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E01-S01E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E03.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E04.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E05.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E06.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E07.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E08.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E09.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E10.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E11.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E12.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E13.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E14.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E15.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E16.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E17.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E18.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E19.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E20.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E21.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E22.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E23.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E23.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E24.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E24.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E25.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E25.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E26.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 1\Star Trek The Next Generation S01E26.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E01.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E02.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E03.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E04.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E05.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E06.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E07.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E08.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E09.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E10.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E11.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E12.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E13.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E14.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E15.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E16.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E17.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E18.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E19.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E20.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E21.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E22.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 2\Star Trek The Next Generation S02E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E01.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E02.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E03.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E04.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E05.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E06.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E07.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E08.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E09.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E10.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E11.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E12.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E13.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E14.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E15.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E16.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E17.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E18.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E19.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E20.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E21.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E22.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E23.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E23.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E24.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E24.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E25.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E25.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E26-S04E01.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 3\Star Trek The Next Generation S03E26-S04E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E02.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E03.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E04.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E05.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E06.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E07.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E08.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E09.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E10.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E11.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E12.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E13.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E14.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E15.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E16.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E17.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E18.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E19.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E20.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E21.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E22.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E23.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E23.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E24.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E24.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E25.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E25.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E26.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 4\Star Trek The Next Generation S04E26.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E01.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E02.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E03.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E04.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E05.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E06.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E07.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E08.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E09.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E10.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E11.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E12.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E13.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E14.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E15.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E16.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E17.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E18.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E19.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E20.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E21.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E22.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E23.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E23.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E24.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E24.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E25.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E25.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E26.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 5\Star Trek The Next Generation S05E26.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E01.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E02.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E03.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E04.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E05.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E06.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E07.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E08.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E09.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E10.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E11.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E12.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E13.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E14.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E15.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E16.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E17.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E18.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E19.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E20.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E21.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E22.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E23.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E23.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E24.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E24.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E25.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E25.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E26.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 6\Star Trek The Next Generation S06E26.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E01.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E02.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E03.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E04.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E05.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E06.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E07.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E08.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E09.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E10.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E11.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E11.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E12.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E12.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E13.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E13.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E14.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E14.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E15.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E15.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E16.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E16.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E17.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E17.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E18.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E18.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E19.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E19.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E20.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E20.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E21.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E21.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E22.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E22.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E23.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E23.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E24.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E24.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E25-S07E26.mp4
+Processed: E:\Downloads\TV Drama2\Star Trek The Next Generation\Season 7\Star Trek The Next Generation S07E25-S07E26.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Extras\[TGx]Downloaded from torrentgalaxy.org .txt
+Processed: E:\Downloads\TV Drama2\The Act\Extras\[TGx]Downloaded from torrentgalaxy.org .txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E01.mkv
+Processed: E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E02.mkv
+Processed: E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E03.mkv
+Processed: E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E04.mkv
+Processed: E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E05.mkv
+Processed: E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E06.mkv
+Processed: E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E07.mkv
+Processed: E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E08.mkv
+Processed: E:\Downloads\TV Drama2\The Act\Season 1\The Act S01E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Extras\ITV.What.the.Durrells.Did.Next.720p.HDTV.x264.AAC.MVGroup.org.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Extras\ITV.What.the.Durrells.Did.Next.720p.HDTV.x264.AAC.MVGroup.org.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Extras\Thumbs.db
+Processed: E:\Downloads\TV Drama2\The Durrells\Extras\Thumbs.db
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Extras\where I upload.txt
+Processed: E:\Downloads\TV Drama2\The Durrells\Extras\where I upload.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E01.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E02.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E03.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E04.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E05.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E06.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E07.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E08.mkv
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 3\The Durrells S03E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E01.mp4
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E02.mp4
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E03.mp4
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E04.mp4
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E05.mp4
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E06.mp4
+Processed: E:\Downloads\TV Drama2\The Durrells\Season 4\The Durrells S04E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E01.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E02.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E03.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E04.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E05.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E06.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E07.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E08.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E09.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E10.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 1\The Handmaids Tail S01E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E01.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E02.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E03.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E04.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E05.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E06.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E07.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E08.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E09.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E10.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E11.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E11.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E12.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E12.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E13.mkv
+Processed: E:\Downloads\TV Drama2\The Handmaids Tail\Season 2\The Handmaids Tail S02E13.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Jinx\Extras\2015 - The Jinx (HBO - Robert Durst - All 6 Eps).mp4
+Processed: E:\Downloads\TV Drama2\The Jinx\Extras\2015 - The Jinx (HBO - Robert Durst - All 6 Eps).mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Extras\banner.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\banner.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Extras\fanart.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\fanart.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Extras\poster.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\poster.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Extras\Read Me.txt
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\Read Me.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Extras\season01-banner.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\season01-banner.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Extras\season01-poster.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\season01-poster.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Extras\Thumbs.db
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\Thumbs.db
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Extras\tvshow.nfo
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\tvshow.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E01.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E01.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E01.mkv
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E01.mp4
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E01.nfo
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E01.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E02.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E02.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E02.mkv
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E02.mp4
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E02.nfo
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E02.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E03.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E03.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E03.mkv
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E03.mp4
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E03.nfo
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E03.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E04.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E04.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E04.mkv
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E04.mp4
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E04.nfo
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E04.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E05.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E05.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E05.mkv
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E05.mp4
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E05.nfo
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E05.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E06.jpg
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E06.jpg
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E06.mkv
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E06.mp4
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E06.nfo
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E06.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E07.mp4
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E08.mp4
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Season 1\The Mandalorian S01E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Mandalorian\Season 1\Thumbs.db
+Processed: E:\Downloads\TV Drama2\The Mandalorian\Extras\Thumbs.db
+
+Original:  E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E01.mkv
+Processed: E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E02.mkv
+Processed: E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E03.mkv
+Processed: E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E04.mkv
+Processed: E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E05.mkv
+Processed: E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E06.mkv
+Processed: E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E07.mkv
+Processed: E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E08.mkv
+Processed: E:\Downloads\TV Drama2\The Night Of\Season 1\The Night Of S01E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Extras\[TGx]Downloaded from torrentgalaxy.org .txt
+Processed: E:\Downloads\TV Drama2\This is Us\Extras\[TGx]Downloaded from torrentgalaxy.org .txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E01.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E02.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E03.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E04.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E05.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E06.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E07.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E08.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E09.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E10.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E11.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E11.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E12.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E12.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E13.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E13.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E14.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E14.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E15.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E15.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E16.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E16.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E17.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E17.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E18.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 2\This is Us S02E18.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E01.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E02.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E03.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E04.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E05.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E06.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E07.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E08.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E09.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E10.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E11.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E11.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E12.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E12.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E13.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E13.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E14.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E14.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E15.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E15.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E16.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E16.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E17.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E17.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E18.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 3\This is Us S03E18.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E01.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E02.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E03.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E04.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E05.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E06.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E07.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E08.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E09.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E10.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E11.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E11.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E12.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E12.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E13.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E13.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E14.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E14.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E15.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E15.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E16.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E16.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E17.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E17.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E18.mkv
+Processed: E:\Downloads\TV Drama2\This is Us\Season 4\This is Us S04E18.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Extras\About.txt
+Processed: E:\Downloads\TV Drama2\True Detective\Extras\About.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Extras\Episode Guide.txt
+Processed: E:\Downloads\TV Drama2\True Detective\Extras\Episode Guide.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Extras\Folder Icon.ico
+Processed: E:\Downloads\TV Drama2\True Detective\Extras\Folder Icon.ico
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Extras\Media Info.nfo
+Processed: E:\Downloads\TV Drama2\True Detective\Extras\Media Info.nfo
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Extras\Read Me.txt
+Processed: E:\Downloads\TV Drama2\True Detective\Extras\Read Me.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E01.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E02.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E03.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E04.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E05.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E06.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E07.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E08.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 1\True Detective S01E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E01.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E02.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E03.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E04.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E05.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E06.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E07.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E08.mkv
+Processed: E:\Downloads\TV Drama2\True Detective\Season 2\True Detective S02E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E01.mp4
+Processed: E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E02.mp4
+Processed: E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E03.mp4
+Processed: E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E04.mp4
+Processed: E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E05.mp4
+Processed: E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E06.mp4
+Processed: E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E07.mp4
+Processed: E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E08.mp4
+Processed: E:\Downloads\TV Drama2\True Detective\Season 3\True Detective S03E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\Download Daily Updated TV Shows from TorrentCouch.com.txt
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\Download Daily Updated TV Shows from TorrentCouch.com.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\Download HD & BluRay Movies from TorrentCounter.to .txt
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\Download HD & BluRay Movies from TorrentCounter.to .txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\Download Subs from SubtitlesCouch.com.txt
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\Download Subs from SubtitlesCouch.com.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\Supprt Our Work by Visiting our Website, Your Appreciation encourage us to Do more.txt
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\Supprt Our Work by Visiting our Website, Your Appreciation encourage us to Do more.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\Torrent downloaded from demonoid.pw.txt
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\Torrent downloaded from demonoid.pw.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\Torrent downloaded from ExtraTorrent.cc.txt
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\Torrent downloaded from ExtraTorrent.cc.txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\[TGx]Downloaded from torrentgalaxy.to .txt
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\[TGx]Downloaded from torrentgalaxy.to .txt
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_0_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_0_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_10_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_10_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_1_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_1_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_2_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_2_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_3_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_3_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_4_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_4_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_5_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_5_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_6_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_6_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_7_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_7_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_8_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_8_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_9_if you see this file, please update to BitComet 0.85 or above____
+Processed: E:\Downloads\TV Drama2\Westworld\Extras\_____padding_file_9_if you see this file, please update to BitComet 0.85 or above____
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E01.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E02.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E03.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E04.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E05.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E06.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E07.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E08.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E08.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E09.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E09.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E10.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 1\Westworld S01E10.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E01.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E01.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E02.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E02.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E03.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E03.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E04.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E04.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E05.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E05.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E06.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E06.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E07.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E07.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E08.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E08.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E09.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E09.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E10.mp4
+Processed: E:\Downloads\TV Drama2\Westworld\Season 2\Westworld S02E10.mp4
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E01.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E01.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E02.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E02.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E03.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E03.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E04.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E04.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E05.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E05.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E06.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E06.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E07.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E07.mkv
+No Processing Needed
+
+Original:  E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E08.mkv
+Processed: E:\Downloads\TV Drama2\Westworld\Season 3\Westworld S03E08.mkv
+No Processing Needed
+
+
